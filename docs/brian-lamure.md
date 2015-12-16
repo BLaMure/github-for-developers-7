@@ -4,4 +4,6 @@
 
 *Favorite Food:* Steak
 
+*Favorite Color:* Blue
+
 *Hobby:* _Woodworking_
