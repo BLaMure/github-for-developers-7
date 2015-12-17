@@ -1,4 +1,5 @@
 # Brian LaMure
+# Using MarkDown for emphasis
 
 *From:* Seattle Washington USA
 
