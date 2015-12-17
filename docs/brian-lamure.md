@@ -6,4 +6,6 @@
 
 *Favorite Color:* Blue
 
+*Favorite Animal:* Tardigrade
+
 *Hobby:* _Woodworking_
